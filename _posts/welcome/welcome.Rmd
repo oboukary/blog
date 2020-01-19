@@ -1,12 +1,12 @@
 ---
 title: "Bienvenue sur mon blog"
 description: |
-  Bienvenue sur ce blog dédié à l'économie et à la finance. En espérant que vous aller trouver satisfaction en lisant mes articles! Vos critiques et suggestions sont les bienvenues.
+  Bienvenue sur ce blog dédié à l'économie et à la finance. En espérant que vous trouverez satisfaction en lisant mes articles!  Vos critiques et suggestions sont les bienvenues.
 author:
   - name: Boukary Ouedraogo 
     url: https://oboukary.github.io/blog/
-    affiliation: CCMSA
-    affiliation_url: https://www.msa.fr/lfy
+    affiliation: 
+    affiliation_url:
 date: 01-19-2020
 output:
   distill::distill_article:

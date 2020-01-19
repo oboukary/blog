@@ -1,5 +1,5 @@
 ---
-title: "Eco & Finance"
+title: "Eco"
 site: distill::distill_website
 listing: posts
 ---

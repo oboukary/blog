@@ -1,8 +1,7 @@
 ---
 title: "A propos de ce blog"
 description: |
-  Some additional details about the blog
-  Ce blog est dédié à mes publications sur l'économie et la finance quantitative et leurs applications sur les logiciels R et Python.
+ Ce blog est dédié à mes publications sur l'économie et la finance quantitative et leurs applications sur les logiciels R et Python.
 ---
 
 ```{r setup, include=FALSE}

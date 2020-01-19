@@ -5,8 +5,12 @@ description: |
 output_dir: "docs"
 navbar:
   right:
-    - text: "Home"
+    - text: "Accueil"
       href: index.html
-    - text: "About"
-      href: about.html  
+    - text: "À propos de moi"
+      menu:
+        - text: " Qui suis-je ?"
+          href: about.html
+        - text: "Mon CV"
+          href: about.html
 output: distill::distill_article
