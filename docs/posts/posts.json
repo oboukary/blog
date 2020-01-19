@@ -1,0 +1,18 @@
+[
+  {
+    "path": "posts/welcome/",
+    "title": "Bienvenue sur mon blog",
+    "description": "Bienvenue sur ce blog dédié à l'économie et à la finance. En espérant que vous aller trouver satisfaction en lisant mes articles! Vos critiques et suggestions sont les bienvenues.",
+    "author": [
+      {
+        "name": "Boukary Ouedraogo",
+        "url": "https://example.com/norajones"
+      }
+    ],
+    "date": "2020-01-19",
+    "categories": [],
+    "preview": {},
+    "last_modified": "2020-01-19T12:47:29+01:00",
+    "input_file": {}
+  }
+]
