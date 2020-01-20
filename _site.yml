@@ -13,4 +13,6 @@ navbar:
           href: about.html
         - text: "Mon CV"
           href: about.html
+        - text: "Contact"
+          href: contact.html       
 output: distill::distill_article
