@@ -1,8 +1,9 @@
 ---
 title: "le ratio de Sharpe"
 draft: false
+preview: preview.png
 description: |
-  Bienvenue sur ce blog dédié à l'économie et à la finance. En espérant que vous trouverez satisfaction en lisant mes articles!  Vos critiques et suggestions sont les bienvenues.
+ Dans ce article nous parlerons d'un outil important de la gestion moderne de portefeuille: le ratio de Sharpe.
 author:
   - name: Boukary Ouedraogo 
     url: https://oboukary.github.io/blog/

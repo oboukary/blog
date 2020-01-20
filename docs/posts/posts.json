@@ -1,8 +1,8 @@
 [
   {
-    "path": "posts/",
+    "path": "posts/2020-01-20-ratio-sharpe/",
     "title": "le ratio de Sharpe",
-    "description": "Bienvenue sur ce blog dédié à l'économie et à la finance. En espérant que vous trouverez satisfaction en lisant mes articles!  Vos critiques et suggestions sont les bienvenues.",
+    "description": "Dans ce article nous parlerons d'un outil important de la gestion moderne de portefeuille: le ratio de Sharpe.",
     "author": [
       {
         "name": "Boukary Ouedraogo",
@@ -16,8 +16,8 @@
       "rendements",
       "portefeuille"
     ],
-    "preview": {},
-    "last_modified": "2020-01-20T16:25:33+00:00"
+    "preview": "posts/2020-01-20-ratio-sharpe/preview.png",
+    "last_modified": "2020-01-20T22:16:56+00:00"
   },
   {
     "path": "posts/welcome/",
@@ -32,6 +32,6 @@
     "date": "2020-01-19",
     "categories": [],
     "preview": {},
-    "last_modified": "2020-01-19T13:21:44+00:00"
+    "last_modified": "2020-01-20T19:49:59+00:00"
   }
 ]
