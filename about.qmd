@@ -4,12 +4,15 @@ about:
   template: trestles
   image: profile.jpg
   links:
+    - icon: linkedin
+      text: Linkedin
+      href: https://www.linkedin.com/in/oboukary/
     - icon: twitter
       text: twitter
-      href: https://twitter.com
+      href: https://twitter.com/Boukary16
     - icon: github
       text: Github
-      href: https://github.com
+      href: https://github.com/oboukary
 ---
 
 Ingénieur statisticien-économiste de formation, je suis par les sciences de la donnée et l'IA et leur application aux problématiques concrètes.
@@ -20,8 +23,11 @@ Ingénieur statisticien-économiste de formation, je suis par les sciences de la
 
 **INSEA** \| Rabat <br/> Ingénieur statisticien-économiste \| Sept 2012 - Juil 2015
 
+**Université Ibn Tofail** \| Kenitra, Maroc <br/>
+DEUG en mathématiques \| Sept 2010 - Juil 2012
+
 ## Experience
 
-Arval BNP Paribas \| Statisticien & Analyst Pricing \| Février 2022 - présent
+**Arval BNP Paribas** \| Statisticien & Analyst Pricing \| Février 2022 - présent
 
-CCMSA \| Statisticien & Data scientist \| Janv 2018 - Janv 2022
+**CCMSA** \| Statisticien & Data scientist \| Janv 2018 - Janv 2022

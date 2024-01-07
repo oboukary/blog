@@ -21,10 +21,8 @@ website:
   
   navbar:
     right:
-      - href: index.qmd
-        text: Accueil
       - href: about.qmd
-        text: A propos
+        text: Accueil
       - href: post.qmd
         text: Publications
       - text: CV
@@ -53,9 +51,6 @@ format:
 
 editor: visual
 
-comments:
-  giscus:
-    repo: oboukary/blog
 
 execute:
   freeze: auto
