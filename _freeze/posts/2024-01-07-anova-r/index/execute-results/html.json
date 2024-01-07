@@ -1,0 +1,11 @@
+{
+  "hash": "4783b7ff994608d37711e4fbe8b6122c",
+  "result": {
+    "markdown": "---\ntitle: Analyse de la variance\n---\n\n## Définition\nL'analyse de la variance est une méthode statistique qui permet de étudier l'éffet d'une ou de plusieurs variables catégorielles sur une variable réponse de type quantitative.\n\n::: {.cell execution_count=1}\n``` {.r .cell-code}\nlibrary(dplyr)\n```\n\n::: {.cell-output .cell-output-stderr}\n```\n\nAttachement du package : 'dplyr'\n\n\nLes objets suivants sont masqués depuis 'package:stats':\n\n    filter, lag\n\n\nLes objets suivants sont masqués depuis 'package:base':\n\n    intersect, setdiff, setequal, union\n\n\n```\n:::\n:::\n\n\n",
+    "supporting": [
+      "index_files"
+    ],
+    "filters": [],
+    "includes": {}
+  }
+}

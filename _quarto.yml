@@ -2,6 +2,7 @@ project:
   type: website
   preview: 
     port: 4200
+  output-dir: _output
     
 
 website:
@@ -23,8 +24,10 @@ website:
     right:
       - href: about.qmd
         text: Accueil
-      - href: post.qmd
-        text: Publications
+      - href: posts/index.qmd
+        text: Blog
+      - href: projet.qmd
+        text: Projets
       - text: CV
         href: index.qmd
       
@@ -42,12 +45,6 @@ format:
     footnotes-hover: true
     toc: true
     code-link: true
-    
-    grid:
-      sidebar-width: 300px
-      body-width: 1200px
-      margin-width: 300px
-      gutter-width: 1.5rem
 
 editor: visual
 
@@ -56,4 +53,4 @@ execute:
   freeze: auto
     
 lang: fr
-
+highlight-style: pygments

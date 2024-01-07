@@ -13,6 +13,8 @@ about:
     - icon: github
       text: Github
       href: https://github.com/oboukary
+comments: false
+nav: false
 ---
 
 Ingénieur statisticien-économiste de formation, je suis par les sciences de la donnée et l'IA et leur application aux problématiques concrètes.

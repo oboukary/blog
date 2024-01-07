@@ -1,0 +1,23 @@
+[
+  {
+    "objectID": "posts/index.html",
+    "href": "posts/index.html",
+    "title": "Posts",
+    "section": "",
+    "text": "Trier par\n       Ordre par défaut\n         \n          Titre\n        \n         \n          Date - Le plus ancien\n        \n         \n          Date - Le plus récent\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n  \n\n\n\n\nAnalyse de la variance\n\n\n\n\n\n\n\n \n\n\n\n\nAucun article correspondant"
+  },
+  {
+    "objectID": "posts/2024-01-07-anova-r/index.html",
+    "href": "posts/2024-01-07-anova-r/index.html",
+    "title": "Analyse de la variance",
+    "section": "",
+    "text": "L’analyse de la variance est une méthode statistique qui permet de étudier l’éffet d’une ou de plusieurs variables catégorielles sur une variable réponse de type quantitative.\n\nlibrary(dplyr)\n\n\nAttachement du package : 'dplyr'\n\n\nLes objets suivants sont masqués depuis 'package:stats':\n\n    filter, lag\n\n\nLes objets suivants sont masqués depuis 'package:base':\n\n    intersect, setdiff, setequal, union"
+  },
+  {
+    "objectID": "posts/2024-01-07-anova-r/index.html#définition",
+    "href": "posts/2024-01-07-anova-r/index.html#définition",
+    "title": "Analyse de la variance",
+    "section": "",
+    "text": "L’analyse de la variance est une méthode statistique qui permet de étudier l’éffet d’une ou de plusieurs variables catégorielles sur une variable réponse de type quantitative.\n\nlibrary(dplyr)\n\n\nAttachement du package : 'dplyr'\n\n\nLes objets suivants sont masqués depuis 'package:stats':\n\n    filter, lag\n\n\nLes objets suivants sont masqués depuis 'package:base':\n\n    intersect, setdiff, setequal, union"
+  }
+]
