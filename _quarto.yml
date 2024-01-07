@@ -5,7 +5,7 @@ project:
     
 
 website:
-  title: "Boukary O"
+  title: "Boukary O."
   page-navigation: true
   
   page-footer:
@@ -55,10 +55,10 @@ editor: visual
 
 comments:
   giscus:
-    repo: boukary
+    repo: oboukary/blog
 
 execute:
-  freeze: true
+  freeze: auto
     
-
+lang: fr
 

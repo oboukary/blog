@@ -2,9 +2,23 @@
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "Finley Malloc",
+    "title": "Boukary OUEDRAOGO",
     "section": "",
     "text": "Ingénieur statisticien-économiste de formation, je suis par les sciences de la donnée et l’IA et leur application aux problématiques concrètes."
+  },
+  {
+    "objectID": "about.html#formation",
+    "href": "about.html#formation",
+    "title": "Boukary OUEDRAOGO",
+    "section": "Formation",
+    "text": "Formation\nUniversité Paris Nanterre | Nanterre  Master en modélisation prospective | Sept 2016 - Juin 2017\nINSEA | Rabat  Ingénieur statisticien-économiste | Sept 2012 - Juil 2015"
+  },
+  {
+    "objectID": "about.html#experience",
+    "href": "about.html#experience",
+    "title": "Boukary OUEDRAOGO",
+    "section": "Experience",
+    "text": "Experience\nArval BNP Paribas | Statisticien & Analyst Pricing | Février 2022 - présent\nCCMSA | Statisticien & Data scientist | Janv 2018 - Janv 2022"
   },
   {
     "objectID": "index.html",
@@ -12,19 +26,5 @@
     "title": "website_quarto",
     "section": "",
     "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
-  },
-  {
-    "objectID": "about.html#formation",
-    "href": "about.html#formation",
-    "title": "Finley Malloc",
-    "section": "Formation",
-    "text": "Formation\nUniversité Paris Nanterre | Nanterre  Master en modélisation prospective | Sept 2016 - Juin 2017\nINSEA | Rabat  Ingénieur statisticien-économiste | Sept 2012 - Juil 2015"
-  },
-  {
-    "objectID": "about.html#experience",
-    "href": "about.html#experience",
-    "title": "Finley Malloc",
-    "section": "Experience",
-    "text": "Experience\nArval BNP Paribas | Statisticien & Analyst Pricing | Février 2022 - présent\nCCMSA | Statisticien & Data scientist | Janv 2018 - Janv 2022"
   }
 ]
