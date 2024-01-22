@@ -7,7 +7,7 @@ project:
 website:
   title: "Boukary O."
   page-navigation: true
-  site-url: "https://boukary.fr/"
+  site-url: "https://ouedraogo-boukary.com/"
   
   page-footer:
     left: "Site crée avec [Quarto](https://quarto.org/), par Boukary Ouedraogo. License: [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/deed.fr/)."
