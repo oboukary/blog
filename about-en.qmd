@@ -1,5 +1,4 @@
 ---
-title: "Boukary OUEDRAOGO"
 about:
   template: trestles
   image: profile.jpg

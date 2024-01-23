@@ -22,16 +22,33 @@ website:
   
   navbar:
     right:
-      - href: about.qmd
-        text: Accueil
-      - href: posts/index.qmd
-        text: Blog
-      - href: projet.qmd
-        text: Projets
+      - href: index.qmd
+        text: Home
+      - text: About
+        menu: 
+          - text: Français
+            href: about-fr.qmd
+            
+          - text: English
+            href: about-en.qmd
+            
+      - text: Posts
+        menu:
+          - text: All posts
+            href: posts/index.qmd
+            
+          - text: Français
+            href: posts/fr.qmd
+            
+          - text: English
+            href: posts/en.qmd
+            
+      - text: Projects
+        href: projet.qmd
+        
       - text: CV
         href: index.qmd
       
-
 format:
   html:
     theme: 
@@ -43,7 +60,7 @@ format:
     link-external-filter: '^(?:http:|https:)\/\/www\.boukary\.fr\/**'
     citations-hover: true
     footnotes-hover: true
-    toc: true
+    toc: false
     code-link: true
 
 editor: visual
@@ -51,6 +68,4 @@ editor: visual
 
 execute:
   freeze: auto
-    
-lang: fr
 highlight-style: pygments

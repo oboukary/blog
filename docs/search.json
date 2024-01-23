@@ -2,21 +2,21 @@
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "Boukary OUEDRAOGO",
+    "title": "Boukary O.",
     "section": "",
     "text": "Ingénieur statisticien-économiste de formation, je suis par les sciences de la donnée et l’IA et leur application aux problématiques concrètes."
   },
   {
     "objectID": "about.html#formation",
     "href": "about.html#formation",
-    "title": "Boukary OUEDRAOGO",
+    "title": "Boukary O.",
     "section": "Formation",
     "text": "Formation\nUniversité Paris Nanterre | Nanterre  Master en modélisation prospective | Sept 2016 - Juin 2017\nINSEA | Rabat  Ingénieur statisticien-économiste | Sept 2012 - Juil 2015\nUniversité Ibn Tofail | Kenitra, Maroc  DEUG en mathématiques | Sept 2010 - Juil 2012"
   },
   {
     "objectID": "about.html#experience",
     "href": "about.html#experience",
-    "title": "Boukary OUEDRAOGO",
+    "title": "Boukary O.",
     "section": "Experience",
     "text": "Experience\nArval BNP Paribas | Statisticien & Analyst Pricing | Février 2022 - présent\nCCMSA | Statisticien & Data scientist | Janv 2018 - Janv 2022"
   },
@@ -39,13 +39,97 @@
     "href": "posts/index.html",
     "title": "Posts",
     "section": "",
-    "text": "Trier par\n       Ordre par défaut\n         \n          Titre\n        \n         \n          Date - Le plus ancien\n        \n         \n          Date - Le plus récent\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n  \n\n\n\n\nAnalyse de la variance\n\n\n\n\n\n\n\n \n\n\n\n\nAucun article correspondant"
+    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n  \n\n\n\n\nAnalyse de la variance\n\n\n\n\n\n\n\n \n\n\n\n\nNo matching items"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "website_quarto",
+    "title": "Boukary OUEDRAOGO",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "Français: Bienvenue sur mon site internet! Vous trouverez ici mes posts et d’autres projets sur lesquels je travaille.\nEnglish: Welcome to my website! You can find here my blog posts and other projects I’m working on."
+  },
+  {
+    "objectID": "index.html#publications-récentes-recent-posts",
+    "href": "index.html#publications-récentes-recent-posts",
+    "title": "Boukary OUEDRAOGO",
+    "section": "Publications récentes / Recent posts",
+    "text": "Publications récentes / Recent posts\n\n\n\n\n\n\n\n\nAnalyse de la variance\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts/en.html",
+    "href": "posts/en.html",
+    "title": "Boukary Ouedraogo",
+    "section": "",
+    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts/fr.html",
+    "href": "posts/fr.html",
+    "title": "Boukary Ouedraogo",
+    "section": "",
+    "text": "Trier par\n       Ordre par défaut\n         \n          Titre\n        \n         \n          Date - Le plus ancien\n        \n         \n          Date - Le plus récent\n        \n         \n          Auteur·rice\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nAucun article correspondant"
+  },
+  {
+    "objectID": "posts/en.html#posts-in-english",
+    "href": "posts/en.html#posts-in-english",
+    "title": "Boukary Ouedraogo",
+    "section": "",
+    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts/fr.html#posts-in-english",
+    "href": "posts/fr.html#posts-in-english",
+    "title": "Boukary O.",
+    "section": "",
+    "text": "Trier par\n       Ordre par défaut\n         \n          Titre\n        \n         \n          Date - Le plus ancien\n        \n         \n          Date - Le plus récent\n        \n         \n          Auteur·rice\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nAucun article correspondant"
+  },
+  {
+    "objectID": "posts/fr.html#posts-en-français",
+    "href": "posts/fr.html#posts-en-français",
+    "title": "Boukary Ouedraogo",
+    "section": "",
+    "text": "Trier par\n       Ordre par défaut\n         \n          Titre\n        \n         \n          Date - Le plus ancien\n        \n         \n          Date - Le plus récent\n        \n         \n          Auteur·rice\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nAucun article correspondant"
+  },
+  {
+    "objectID": "about-fr.html",
+    "href": "about-fr.html",
+    "title": "Boukary O.",
+    "section": "",
+    "text": "Ingénieur statisticien-économiste de formation, je suis par les sciences de la donnée et l’IA et leur application aux problématiques concrètes."
+  },
+  {
+    "objectID": "about-fr.html#formation",
+    "href": "about-fr.html#formation",
+    "title": "Boukary O.",
+    "section": "Formation",
+    "text": "Formation\nUniversité Paris Nanterre | Nanterre  Master en modélisation prospective | Sept 2016 - Juin 2017\nINSEA | Rabat  Ingénieur statisticien-économiste | Sept 2012 - Juil 2015\nUniversité Ibn Tofail | Kenitra, Maroc  DEUG en mathématiques | Sept 2010 - Juil 2012"
+  },
+  {
+    "objectID": "about-fr.html#experience",
+    "href": "about-fr.html#experience",
+    "title": "Boukary O.",
+    "section": "Experience",
+    "text": "Experience\nArval BNP Paribas | Statisticien & Analyst Pricing | Février 2022 - présent\nCCMSA | Statisticien & Data scientist | Janv 2018 - Janv 2022"
+  },
+  {
+    "objectID": "about-en.html",
+    "href": "about-en.html",
+    "title": "Boukary O.",
+    "section": "",
+    "text": "Ingénieur statisticien-économiste de formation, je suis par les sciences de la donnée et l’IA et leur application aux problématiques concrètes."
+  },
+  {
+    "objectID": "about-en.html#formation",
+    "href": "about-en.html#formation",
+    "title": "Boukary O.",
+    "section": "Formation",
+    "text": "Formation\nUniversité Paris Nanterre | Nanterre  Master en modélisation prospective | Sept 2016 - Juin 2017\nINSEA | Rabat  Ingénieur statisticien-économiste | Sept 2012 - Juil 2015\nUniversité Ibn Tofail | Kenitra, Maroc  DEUG en mathématiques | Sept 2010 - Juil 2012"
+  },
+  {
+    "objectID": "about-en.html#experience",
+    "href": "about-en.html#experience",
+    "title": "Boukary O.",
+    "section": "Experience",
+    "text": "Experience\nArval BNP Paribas | Statisticien & Analyst Pricing | Février 2022 - présent\nCCMSA | Statisticien & Data scientist | Janv 2018 - Janv 2022"
   }
 ]

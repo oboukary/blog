@@ -1,11 +1,46 @@
 ---
-title: "website_quarto"
+title: "Boukary OUEDRAOGO"
+listing:
+
+  - id: posts
+    contents: posts/**/*/index.qmd
+    type: grid
+    fields: [image, date, title]
+    sort: "date desc"
+    #categories: cloud
+    sort-ui: false
+    filter-ui: false
+    page-size: 3
+     
+page-layout: full
+title-block-banner: false
+comments: false
+toc: false
+about:
+  template: marquee
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:milz.bea@gmail.com
+    - icon: github
+      text: GitHub
+      href: https://github.com/beatrizmilz
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/beatrizmilz/  
 ---
 
-This is a Quarto website.
+::: {#hero-heading}
+**Français:** Bienvenue sur mon site internet! Vous trouverez ici mes posts et d'autres projets sur lesquels je travaille.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+**English:** Welcome to my website! You can find here my blog posts and other projects I'm working on.
+:::
 
-```{r}
-1 + 1
-```
+------------------------------------------------------------------------
+
+## Publications récentes / Recent posts
+
+::: {#posts}
+:::
+
+------------------------------------------------------------------------
