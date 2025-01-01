@@ -33,7 +33,7 @@ website:
         
 format:
   html:
-    theme: [custmer.scss]
+    theme: [custom.scss]
     
     link-external-icon: false
     link-external-newwindow: true
