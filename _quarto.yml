@@ -3,14 +3,14 @@ project:
   preview: 
     port: 4200
   output-dir: docs  
-
+lang: fr
 website:
-  title: "Boukary O."
+  title: "Boukary Ouedraogo"
   page-navigation: true
   site-url: "https://ouedraogo-boukary.com/"
   
   page-footer:
-    left: "Site crée avec [Quarto](https://quarto.org/), par Boukary Ouedraogo. License: [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/deed.fr/)."
+    center: "Site crée par Boukary Ouedraogo avec ❤️, [Quarto](https://quarto.org/) et <img width='20' height='20' src='https://img.icons8.com/fluency/48/r-project.png' alt='r-project'/>."
     right:
       - icon: github
         href: https://github.com/oboukary/
