@@ -24,33 +24,16 @@ website:
     right:
       - href: index.qmd
         text: Home
-      - text: About
-        menu: 
-          - text: Français
-            href: about-fr.qmd
-            
-          - text: English
-            href: about-en.qmd
-            
+        
       - text: Posts
-        menu:
-          - text: All posts
-            href: posts/index.qmd
-            
-          - text: Français
-            href: posts/fr.qmd
-            
-          - text: English
-            href: posts/en.qmd
-            
+        href: posts/index.qmd
+        
       - text: Projects
         href: projet.qmd
         
 format:
   html:
-    theme: 
-    - pulse
-    - custom.scss
+    theme: [styles.scss]
     
     link-external-icon: false
     link-external-newwindow: true
@@ -59,8 +42,6 @@ format:
     footnotes-hover: true
     toc: false
     code-link: true
-
-editor: visual
 
 
 execute:

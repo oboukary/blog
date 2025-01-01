@@ -21,24 +21,23 @@ about:
   links:
     - icon: envelope
       text: Email
-      href: mailto:milz.bea@gmail.com
+      href: mailto:bo.ouedraogo7@gmail.com
     - icon: github
       text: GitHub
-      href: https://github.com/beatrizmilz
+      href: https://github.com/oboukary
     - icon: linkedin
       text: LinkedIn
-      href: https://www.linkedin.com/in/beatrizmilz/  
+      href: https://www.linkedin.com/in/oboukary/  
 ---
 
 ::: {#hero-heading}
-**Français:** Bienvenue sur mon site internet! Vous trouverez ici mes posts et d'autres projets sur lesquels je travaille.
+Bienvenue sur mon site internet! Vous trouverez ici mes posts et d'autres projets sur lesquels je travaille.
 
-**English:** Welcome to my website! You can find here my blog posts and other projects I'm working on.
 :::
 
 ------------------------------------------------------------------------
 
-## Publications récentes / Recent posts
+## Publications récentes 
 
 ::: {#posts}
 :::

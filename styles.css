@@ -173,3 +173,7 @@ div.quarto-about-trestles .about-entity .about-link:hover {
   font-family: "SF Pro Text", Helvetica, sans-serif;
 }
 
+.main.content {
+  max-width: 800px;
+  margin: 0 auto;
+}
