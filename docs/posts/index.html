@@ -39,7 +39,7 @@ ul.task-list li input[type="checkbox"] {
 <link href="../site_libs/quarto-html/quarto-syntax-highlighting-e26003cea8cd680ca0c55a263523d882.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../site_libs/bootstrap/bootstrap-44952e040076f618d9d02a719e46f470.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="../site_libs/bootstrap/bootstrap-4851b2b3c2f6f610224ed8ad71e48126.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -79,7 +79,7 @@ ul.task-list li input[type="checkbox"] {
     const options = {
       valueNames: ['listing-image','listing-date','listing-title','listing-subtitle',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
       
-      searchColumns: ["listing-categories"],
+      searchColumns: ["listing-date","listing-title","listing-author","listing-subtitle","listing-image","listing-description","listing-categories"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
@@ -147,6 +147,10 @@ window.Quarto = {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item">
+    <a class="nav-link" href="../index.html"> 
+<span class="menu-text">Accueil</span></a>
+  </li>  
+  <li class="nav-item">
     <a class="nav-link" href="../about.html"> 
 <span class="menu-text">Accueil</span></a>
   </li>  
@@ -171,7 +175,7 @@ window.Quarto = {
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
         
-    <h5 class="quarto-listing-category-title">Catégories</h5><div class="quarto-listing-category category-cloud"></div></div>
+    <h5 class="quarto-listing-category-title">Catégories</h5><div class="quarto-listing-category category-cloud"><div class="category" data-category="Q29tbXVuaXRpZXM="><span class="quarto-category-count category-cloud-10">Communities</span></div><div class="category" data-category="RXZlbnRz"><span class="quarto-category-count category-cloud-10">Events</span></div><div class="category" data-category="UiUyMFBhY2thZ2Vz"><span class="quarto-category-count category-cloud-10">R Packages</span></div><div class="category" data-category="UlN0dWRpbw=="><span class="quarto-category-count category-cloud-10">RStudio</span></div><div class="category" data-category="dGlkeXZlcnNl"><span class="quarto-category-count category-cloud-10">tidyverse</span></div></div></div>
 <!-- main -->
 <main class="content column-page-left" id="quarto-document-content">
 
@@ -218,7 +222,28 @@ window.Quarto = {
     </div>
 </div>
 <div class="list quarto-listing-default">
-
+<div class="quarto-post image-right" data-index="0" data-categories="RXZlbnRzJTJDQ29tbXVuaXRpZXMlMkN0aWR5dmVyc2UlMkNSU3R1ZGlvJTJDUiUyMFBhY2thZ2Vz" data-listing-date-sort="1735686000000" data-listing-file-modified-sort="1735774233444" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="5">
+<div class="thumbnail">
+<p><a href="../posts/01_regression_lineaire/index.html" class="no-external"></a></p><a href="../posts/01_regression_lineaire/index.html" class="no-external">
+<div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
+</a><p><a href="../posts/01_regression_lineaire/index.html" class="no-external"></a></p>
+</div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="../posts/01_regression_lineaire/index.html" class="no-external">La regression linéaire sous R</a>
+</h3>
+<div class="listing-subtitle">
+<a href="../posts/01_regression_lineaire/index.html" class="no-external">Application avec divers langage de programmation</a>
+</div>
+</div>
+<div class="metadata">
+<a href="../posts/01_regression_lineaire/index.html" class="no-external">
+<div class="listing-date">
+1 janv. 2025
+</div>
+</a>
+</div>
+</div>
 </div>
 <div class="listing-no-matching d-none">
 Aucun article correspondant
@@ -655,8 +680,12 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 <footer class="footer">
   <div class="nav-footer">
     <div class="nav-footer-left">
-      &nbsp;
-    </div>   
+<p>
+Copyright ©
+<script>document.write(new Date().getFullYear())</script>
+Your Name All Rights Reserved
+</p>
+</div>   
     <div class="nav-footer-center">
 <p>Site crée par Boukary Ouedraogo avec ❤️, <a href="https://quarto.org/">Quarto</a> et <img width="20" height="20" src="https://img.icons8.com/fluency/48/r-project.png" alt="r-project">.</p>
 </div>

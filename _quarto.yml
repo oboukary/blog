@@ -10,7 +10,8 @@ website:
   site-url: "https://ouedraogo-boukary.com/"
   
   page-footer:
-    center: "Site crée par Boukary Ouedraogo avec ❤️, [Quarto](https://quarto.org/) et <img width='20' height='20' src='https://img.icons8.com/fluency/48/r-project.png' alt='r-project'/>."
+    left: '<p>Copyright &copy; <script>document.write(new Date().getFullYear())</script> Boukary Ouedraogo</p>'
+    center: "Site crée par avec ❤️, [Quarto](https://quarto.org/) et <img width='20' height='20' src='https://img.icons8.com/fluency/48/r-project.png' alt='r-project'/>"
     right:
       - icon: github
         href: https://github.com/oboukary/
@@ -23,8 +24,11 @@ website:
   navbar:
     pinned: true
     right:
-      - href: about.qmd
+      - href: index.qmd
         text: Accueil
+        
+      - href: about.qmd
+        text: A propos
         
       - text: Blog
         href: posts/index.qmd
@@ -44,4 +48,4 @@ format:
     toc: false
     code-link: true
 execute:
-  freeze: true
+  freeze: auto

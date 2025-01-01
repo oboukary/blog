@@ -38,7 +38,7 @@ ul.task-list li input[type="checkbox"] {
 <link href="site_libs/quarto-html/quarto-syntax-highlighting-e26003cea8cd680ca0c55a263523d882.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-44952e040076f618d9d02a719e46f470.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-4851b2b3c2f6f610224ed8ad71e48126.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -78,7 +78,7 @@ ul.task-list li input[type="checkbox"] {
     const options = {
       valueNames: ['listing-image','listing-date','listing-title',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
       
-      searchColumns: [],
+      searchColumns: ["listing-title","listing-author","listing-date","listing-image","listing-description"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
@@ -146,8 +146,12 @@ window.Quarto = {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item">
-    <a class="nav-link" href="./about.html"> 
+    <a class="nav-link active" href="./index.html" aria-current="page"> 
 <span class="menu-text">Accueil</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./about.html"> 
+<span class="menu-text">A propos</span></a>
   </li>  
   <li class="nav-item">
     <a class="nav-link" href="./posts/index.html"> 
@@ -189,6 +193,23 @@ window.Quarto = {
 <h2 data-anchor-id="publications-récentes">Publications récentes</h2>
 <div id="listing-posts" class="quarto-listing quarto-listing-container-grid">
 <div class="list grid quarto-listing-cols-3">
+<div class="g-col-1" data-index="0" data-categories="RXZlbnRzJTJDQ29tbXVuaXRpZXMlMkN0aWR5dmVyc2UlMkNSU3R1ZGlvJTJDUiUyMFBhY2thZ2Vz" data-listing-date-sort="1735686000000" data-listing-file-modified-sort="1735774233444" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="5">
+<a href="./posts/01_regression_lineaire/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<div class="listing-item-img-placeholder card-img-top" style="height: 150px;">&nbsp;</div>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+La regression linéaire sous R
+</h5>
+<div class="card-attribution card-text-small end">
+<div class="listing-date">
+1 janv. 2025
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
 </div>
 <div class="listing-no-matching d-none">
 Aucun article correspondant
@@ -636,10 +657,14 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 <footer class="footer">
   <div class="nav-footer">
     <div class="nav-footer-left">
-      &nbsp;
-    </div>   
+<p>
+Copyright ©
+<script>document.write(new Date().getFullYear())</script>
+Boukary Ouedraogo
+</p>
+</div>   
     <div class="nav-footer-center">
-<p>Site crée par Boukary Ouedraogo avec ❤️, <a href="https://quarto.org/">Quarto</a> et <img width="20" height="20" src="https://img.icons8.com/fluency/48/r-project.png" alt="r-project">.</p>
+<p>Site crée par avec ❤️, <a href="https://quarto.org/">Quarto</a> et <img width="20" height="20" src="https://img.icons8.com/fluency/48/r-project.png" alt="r-project"></p>
 </div>
     <div class="nav-footer-right">
       <ul class="footer-items list-unstyled">
