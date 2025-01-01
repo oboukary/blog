@@ -18,6 +18,8 @@ nav: false
 
 Ingénieur statisticien-économiste de formation, je suis par les sciences de la donnée et l'IA et leur application aux problématiques concrètes.
 
+<hr>
+
 ## Formation
 
 **Université Paris Nanterre** \| Nanterre <br/> Master en modélisation prospective \| Sept 2016 - Juin 2017

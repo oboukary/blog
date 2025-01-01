@@ -8,6 +8,7 @@ $bs-btn-hover-bg: $bs-blue !default;
 
 .navbar {
   background-color: $bs-blue;
+  position: sticky;
 }
 
 .quarto-title-banner{
@@ -61,4 +62,8 @@ div.quarto-post .listing-categories .listing-category {
     color: $bs-blue;
     border: solid 1px var(--bs-gray-400);
     font-size: .8em;
+}
+
+#quarto-document-content {
+  width: 120%;
 }

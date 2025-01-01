@@ -1,5 +1,5 @@
 ---
-title: "Posts"
+title: "Publications"
 listing:
   - id: posts
     contents: "**/*/index.qmd"

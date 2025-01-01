@@ -21,11 +21,12 @@ website:
   
   
   navbar:
+    pinned: true
     right:
       - href: about.qmd
         text: Accueil
         
-      - text: Publications
+      - text: Blog
         href: posts/index.qmd
         
       - text: Projets
