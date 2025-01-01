@@ -6,7 +6,7 @@ project:
 lang: fr
 website:
   title: "Boukary Ouedraogo"
-  page-navigation: true
+  page-navigation: false
   site-url: "https://ouedraogo-boukary.com/"
   
   page-footer:
