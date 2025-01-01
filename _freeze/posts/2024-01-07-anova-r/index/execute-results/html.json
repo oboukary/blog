@@ -1,8 +1,11 @@
 {
-  "hash": "103f3dd44411069ad74a1101de2c3f2d",
+  "hash": "40d1f7041e29783a3d88d9ddf7d425f9",
   "result": {
-    "markdown": "---\ntitle: \"Analyse de la variance\"\n---\n\n\n## Définition\nL'analyse de la variance est une méthode statistique qui permet de étudier l'éffet d'une ou de plusieurs variables catégorielles sur une variable réponse de type quantitative.\n\n\n::: {.cell}\n\n```{.r .cell-code}\nlibrary(dplyr)\n```\n:::\n",
-    "supporting": [],
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"Analyse de la variance\"\n---\n\n\n\n\n## Définition\nL'analyse de la variance est une méthode statistique qui permet de étudier l'éffet d'une ou de plusieurs variables catégorielles sur une variable réponse de type quantitative.\n\n\n\n\n::: {.cell}\n\n```{.r .cell-code}\nlibrary(dplyr)\n```\n:::\n",
+    "supporting": [
+      "index_files"
+    ],
     "filters": [
       "rmarkdown/pagebreak.lua"
     ],
