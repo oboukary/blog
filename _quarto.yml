@@ -22,13 +22,13 @@ website:
   
   navbar:
     right:
-      - href: index.qmd
-        text: Home
+      - href: about.qmd
+        text: Accueil
         
-      - text: Posts
+      - text: Publications
         href: posts/index.qmd
         
-      - text: Projects
+      - text: Projets
         href: projet.qmd
         
 format:
