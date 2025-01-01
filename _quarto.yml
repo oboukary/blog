@@ -2,7 +2,7 @@ project:
   type: website
   preview: 
     port: 4200
-  output-dir: _site  
+  output-dir: docs  
 lang: fr
 website:
   title: "Boukary Ouedraogo"
@@ -43,4 +43,5 @@ format:
     footnotes-hover: true
     toc: false
     code-link: true
-
+execute:
+  freeze: true
