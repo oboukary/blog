@@ -43,7 +43,3 @@ format:
     toc: false
     code-link: true
 
-
-execute:
-  freeze: auto
-highlight-style: pygments
